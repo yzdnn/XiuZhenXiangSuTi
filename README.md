@@ -18,7 +18,7 @@
 ## **～详细介绍～**
 
 <img width="540" height="720" alt="1" src="https://github.com/user-attachments/assets/dd4dad27-1dfd-4dad-9238-dc6c8347fc46" />
-<img width="540" height="720" alt="2" src="https://github.com/user-attachments/assets/35e3bf40-9b90-449b-aab0-138b1321649c" />
+<img width="540" height="720" alt="2" src="https://github.com/user-attachments/assets/cafe2ab4-fdcc-44f3-bd0d-d551a125eb30" />
 <img width="540" height="720" alt="3" src="https://github.com/user-attachments/assets/2b74031c-4238-448f-ac4a-124d99f92b3c" />
 <img width="540" height="720" alt="4" src="https://github.com/user-attachments/assets/b95e68dd-f568-497e-9618-95c6a351bbeb" />
 <img width="540" height="720" alt="5" src="https://github.com/user-attachments/assets/c63846e2-0e7c-4c58-85f0-7df854d3fb66" />
